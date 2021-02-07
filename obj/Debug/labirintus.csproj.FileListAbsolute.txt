@@ -1,0 +1,7 @@
+D:\Házi\labirintus\bin\Debug\labirintus.exe.config
+D:\Házi\labirintus\bin\Debug\labirintus.exe
+D:\Házi\labirintus\bin\Debug\labirintus.pdb
+D:\Házi\labirintus\obj\Debug\labirintus.csprojAssemblyReference.cache
+D:\Házi\labirintus\obj\Debug\labirintus.csproj.CoreCompileInputs.cache
+D:\Házi\labirintus\obj\Debug\labirintus.exe
+D:\Házi\labirintus\obj\Debug\labirintus.pdb
